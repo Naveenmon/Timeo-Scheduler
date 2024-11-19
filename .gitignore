@@ -31,7 +31,7 @@ yarn-error.log*
 .next
 
 # vercel
-.vercel
+vercel.json
 
 # typescript
 *.tsbuildinfo
