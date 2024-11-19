@@ -28,7 +28,6 @@
 ## 🚀 Demo 
 
 🎥 Check out our live demo: [Timeo Scheduler](https://timeo-scheduler.vercel.app/)  
-*(Link coming soon!)*  
 
 ---
 
